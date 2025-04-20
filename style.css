@@ -789,7 +789,10 @@ padding-top: 0 !important;
         width: 130px;
         height: 62px;
     }
-  
+  .mainrow{
+    justify-content: center;
+  }
+ 
   .content1{
     top:5%;
     left: 8%;
